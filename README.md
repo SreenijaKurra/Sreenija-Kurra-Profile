@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sreenija Kurra</h1>
-<h3 align="center">A passionate Business Analyst</h3>
+<h3 align="center">A passionate AI Business Analyst</h3>
 
 <div align="center"> <img height="150" src="https://raw.githubusercontent.com/sreenijakurra/firstrepo/main/girlgif.gif" height="150"/>
 </div>
